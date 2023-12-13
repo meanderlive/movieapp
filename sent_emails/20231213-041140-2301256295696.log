@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: kamleshlovesu@gmail.com
+Date: Wed, 13 Dec 2023 12:11:40 -0000
+Message-ID: <170246950097.16004.2291082758815511441@DESKTOP-TR6SU3G>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/profile/password-reset-confirm/MTM/bz4ozg-2e329e1398990436d616949ac7d59886/
+
+Your username, in case you’ve forgotten: kamlesh
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
